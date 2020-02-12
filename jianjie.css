@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	padding: 25px 20px 30px;
+}
+.p{
+	text-indent: 5em;
+}
+.body{
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif"
+}
+.w1000{
+	width: 1000px;
+}
+.margin_0_auto{
+	margin: 0 auto;
+}
+.h200{
+	height: 200px;
+}
+.bg_luoye{
+	background-image:url(../images/luoye.jpg);
+	background-repeat: no-repeat;
+	background-position:top;
+}
+.float_left{
+	float: left;
+}
+.padding30{
+	padding: 15px 40px 0 80px;
+}
+.padding_gy{
+	padding: 35px 30px 0px 80px;
+}
+.padding_wz{
+	padding: 3px 0 0 0;
+}
+.padding_bq{
+	padding: 0 350px;
+}
+.li{
+	list-style:n;
+	float:left;
+	margin-left: 80px;
+	width:100px;
+}
+.clear_both{
+	clear: both;
+}
+#daohang ul{
+	list-style: none;
+}
+#neirong ul{
+	list-style: none;
+}
+
+
+
